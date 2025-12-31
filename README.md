@@ -189,7 +189,7 @@ POST https://05q0if5orb.execute-api.us-east-1.amazonaws.com/prod/text
     "response": "\nAmazon Bedrock is the name of AWS’s managed service for managing the underlying infrastructure that powers your intelligent bot. It is a collection of services that you can use to build, deploy, and scale intelligent bots at scale. Amazon Bedrock is a managed service that makes foundation models from leading AI startup and Amazon’s own Titan models available through APIs. For up-to-date information on Amazon Bedrock and how 3P models are approved, endorsed or selected please see the provided documentation and relevant FAQs."
 }
 ```
-
+![postman](/images/postman.png)
 
 #### 🧠 Why This Lambda Design Matters
 
